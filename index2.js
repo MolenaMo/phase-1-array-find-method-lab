@@ -28,3 +28,10 @@ function superbowlWin (record,finder){
         return record.result ["W"];
         return record.year = ["1997"]
     }superbowlWin(record, firstWin)
+
+
+    //FOUND BELOW/DON'T REALLY UNDERSTAND/DOESN'T CONFIRM TO INSTRUCTIONS IN MODULE -4/7
+    // superbowlWin = (record) => {
+//     const result = record.find( record => record.result === "W" );
+//     return !!result ? result.year : undefined;
+//   }
